@@ -20,7 +20,7 @@ Simple page with QR code component.
 
 ### Links
 - [Solution URL here](https://github.com/KamilaHareza/Qr-component/tree/main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Live site URL here](https://kamilahareza.github.io/Qr-component/)
 
 
 ## My process
